@@ -12,9 +12,8 @@
 Ensure you have a GPU-enabled environment.
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/Duality_KSR.git
-cd Duality_KSR
+# Download the zip file from Google drive (in section 4)
+Unzip and set up
 
 # Create the conda environment
 conda env create -f environment.yml
