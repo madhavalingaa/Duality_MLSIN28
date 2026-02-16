@@ -1,3 +1,4 @@
+# Duality_MLSIN28
 # Duality_KSR: Robust Semantic Segmentation for Off-Road Environments
 
 ## Summary
@@ -99,3 +100,4 @@ Here are some qualitative results from the Test Set:
 ### 3. Test-Time Optimization
 - **TTA (Test-Time Augmentation)**: We average predictions from the original image and a horizontally flipped version.
 - **Class Bias**: We apply a subtle logit bias to under-represented classes (like Rocks and Logs) during inference to boost their recall without retraining.
+### 4. whole project zip file drive link - https://drive.google.com/file/d/1ITnsHs1Kanob5tdvqZ77_ecVwmjuQ7lz/view?usp=sharing
